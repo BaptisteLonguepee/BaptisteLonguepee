@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour👋, je suis Baptiste</h1>
-<h3 align="center">Un jeune développeur frontend passionné</h3>
+<h3 align="center">Un jeune développeur passionné</h3>
 
 - 📫 Comment me joindre **baptiste.longuepee@free.fr**
 
