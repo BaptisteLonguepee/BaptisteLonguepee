@@ -1,25 +1,71 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+Je+suis+Baptiste!;" />
-</h1>
-<h3 align="center">Étudiant en Bachelor Développeur Full Stack & Auto-entrepreneur</h3>
+<h1 align="center">👋 Salut, moi c’est Baptiste</h1>
 
-<p align="center">Passionné par le développement web et les nouvelles technologies, je m'efforce de combiner mes études et mon travail d'auto-entrepreneur pour créer des solutions innovantes. Actuellement, je travaille sur divers projets en tant que développeur full stack, tout en poursuivant mes études pour approfondir mes connaissances et compétences.</p>
+<h3 align="center">🎓 Étudiant en Master Développement Full Stack</h3>
 
-- 📫 Pour me joindre ou discuter d'un projet, n'hésite pas à m'envoyer un email à **baptistelonguepee@icloud.com**
-
-<h3 align="center">Connectons-nous :</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/baptiste-longuepee-6953a4207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Baptiste Longuepée" height="30" width="40" /></a>
+  Passionné par le développement web et les nouvelles technologies, je mets à profit ma formation en Master pour approfondir mes compétences techniques et travailler sur des projets concrets. <br />
+  Mon objectif : créer des applications performantes, modernes et utiles, en explorant aussi bien le frontend que le backend.
 </p>
 
-<h3 align="center">Langages et outils :</h3>
+---
+
+### 🌐 Connectons-nous
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,angular,nestjs,flutter,swift" />
+  <a href="https://www.linkedin.com/in/baptiste-longuepee-6953a4207/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Mes projets :</h3>
+---
+
+### 🛠️ Langages et outils
+
+#### 🎨 Frontend
 <p align="left">
-Pour avoir un aperçu de mes réalisations et de ce sur quoi je travaille actuellement, je t'invite à consulter mon projet de Bachelor, qui illustre mes compétences et mon approche du développement full stack :
-<a href="https://github.com/B3-Baptiste-Dev" target="_blank">Mon projet Bachelor</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" alt="Frontend" />
 </p>
+
+#### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,laravel,nodejs,php,prisma" alt="Backend" />
+</p>
+
+#### 🛢️ Bases de données
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,h2" alt="Databases" />
+</p>
+
+#### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+</p>
+
+#### 🧪 API / Tests
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+</p>
+
+#### 🖥️ IDE & Environnements
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webstorm,phpstorm,idea" alt="JetBrains IDEs" />
+  <img src="https://skillicons.dev/icons?i=apple,windows" alt="Platforms" />
+</p>
+
+#### ⚙️ Outils & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,obsidian" alt="DevOps Tools" />
+</p>
+
+
+---
+
+### 🚀 Projets en vedette
+
+#### 🎓 Projet de Bachelor
+📌 Un projet complet réalisé en fin de Bachelor, combinant React, NestJS, et Flutter :  
+👉 [Voir le dépôt Bachelor](https://github.com/B3-Baptiste-Dev)
+
+#### 🧠 Projet de Master 1
+📌 Un ensemble de travaux réalisés durant ma première année de Master :  
+👉 [Voir le dépôt Master 1](https://github.com/M1-Baptiste)
 
